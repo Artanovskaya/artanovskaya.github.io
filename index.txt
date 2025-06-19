@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Daria
+alt = Daria Lavatti
+Daria Lavatti
 Web developer
 
 Show Contacts
